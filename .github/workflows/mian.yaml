@@ -29,5 +29,5 @@ on:
             with:
             github_user_name: ${{ github.repository_owner }}
             outputs: |
-                asset/github-contribution-grid-snake.svg
-                asset/github-contribution-grid-snake-dark.svg?palette=github-dark
+                assets/github-contribution-grid-snake.svg
+                assets/github-contribution-grid-snake-dark.svg?palette=github-dark
